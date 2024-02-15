@@ -16,4 +16,5 @@ Foram criadas views para fazer a conexão com Power BI para não fazer consultas
 
 ![Devoluções](/power%20bi/Devoluções.jpg)
 
-(**Acesse o Dashboard aqui**)[https://app.powerbi.com/view?r=eyJrIjoiNjlmODI4YjEtNWJjMy00OWU0LTliYTEtMjA1MmIzMDE5ZmU0IiwidCI6IjBmN2MyNzgxLTJmMTItNDEzYS1hNmI4LTlhNTQ1M2I5MWFmNCJ9]
+Para mais informações, consulte o **Dashboard** ([Acesse o Dashboard aqui](https://app.powerbi.com/view?r=eyJrIjoiNjlmODI4YjEtNWJjMy00OWU0LTliYTEtMjA1MmIzMDE5ZmU0IiwidCI6IjBmN2MyNzgxLTJmMTItNDEzYS1hNmI4LTlhNTQ1M2I5MWFmNCJ9)).
+
