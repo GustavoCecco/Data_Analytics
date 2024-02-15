@@ -8,11 +8,19 @@ Conectar o Power BI no SQL server e gerar um relatório de análises para tomada
 
 Foram criadas views para fazer a conexão com Power BI para não fazer consultas diretas no banco. Os dados foram tratados diretamente nas views, no Power BI fiz algumas análises de vendas e devoluções assim como o detalhamento dos carros. As bases estão no SQL server e em arquivos CSV.
 
+- ## Banco de Dados
+
 ![SQL](/power%20bi/SQL.jpg)
+
+- ## Modelo de Dados
 
 ![Modelo de Dados](/power%20bi/Modelo%20de%20Dados.jpg)
 
+- ## Vendas
+
 ![Vendas](/power%20bi/Vendas.jpg)
+
+- ## Devoluções
 
 ![Devoluções](/power%20bi/Devoluções.jpg)
 
