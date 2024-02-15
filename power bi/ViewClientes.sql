@@ -1,0 +1,3 @@
+CREATE VIEW V_Clientes AS
+
+SELECT * FROM Clientes

@@ -1,0 +1,5 @@
+CREATE VIEW V_fVendas AS 
+
+SELECT * FROM Vendas
+UNION
+SELECT * FROM Devolucoes
