@@ -3,7 +3,7 @@
 # DATA & ANALYTICS
 
 ## 📚 Formação
-Formação em análise de dados pela plataforma Xperiun - Leonardo Karpinski, a formação tem trilhas de aprendizado de Power BI, SQL e Python. Conforme eu for evoluindo nos cursos estarei atualizando esse repositório com desafios e projetos. 
+Trilhas de aprendizado de Power BI, SQL e Python. Conforme eu for evoluindo nos cursos estarei atualizando esse repositório com desafios e projetos. 
 
 ## 💻 Resumos e Projetos
 
