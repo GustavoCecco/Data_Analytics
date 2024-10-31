@@ -56,6 +56,8 @@ Esta seção apresenta uma análise detalhada sobre as ausências dos candidatos
 
 ![Dashboard ENEM 2023 - Ausências](/power%20bi/ENEM%202023/RelatórioAusencias.jpg)
 
+![Dashboard ENEM 2023 - AModelo](/power%20bi/ENEM%202023/Modelo.jpg)
+
 ## Acesso ao Dashboard
 
 ### [Clique Aqui](https://app.powerbi.com/view?r=eyJrIjoiYTAxOWQzNWQtMDk1ZS00MWFlLWFiMWQtNzBiOWIwM2M3ZTJiIiwidCI6IjY5YjZkZDRkLWYwNWMtNDRjYi1iM2Q0LTYwYTEwMTgxNmRkNyJ9)
