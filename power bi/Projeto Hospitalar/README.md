@@ -27,7 +27,7 @@ Nosso Dashboard não só respondeu às perguntas-chave dos diretores do XHospita
 
 ## Imagens do Dashboard
 
-![Projeto Hospital](/power%20bi/Projeto%20Hospitalar/Dash.jpg)
+![Projeto Hospital](/power%20bi/Projeto%20Hospitalar/Dash.jfif)
 
 ## Acesso ao Dashboard
 
