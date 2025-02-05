@@ -1,0 +1,30 @@
+Enunciado da fase 1
+
+Nesta primeira fase do projeto, seu objetivo será criar um conjunto de dados em formato CSV que contemple informações de países, moeda em circulação no país e Produto Interno Bruto (PIB ou GDP). As informações dos países e do PIB desses países estão em locais diferentes. 
+
+ 
+
+Para obter os dados dos países você deverá consumir uma API REST em Python. Você encontrará junto a esse enunciado um zip com as orientações de como subir o ambiente que vai rodar a API REST na sua máquina. Os dados que devem ser obtidos dessa API são: Código, Nome, Código da Moeda, População, Capital e Área. 
+
+ 
+
+Para obter os dados do GDP (PIB) desde 1960 até 2021, você deverá ler as informações de um arquivo CSV. Verifique que para alguns países não temos disponível a informação de GDP para todos os anos, isso não é um problema, colete as informações disponíveis. 
+
+ 
+
+Disponibilizamos um arquivo compactado (em formato zip). Ao descompactar esse zip você vai encontrar o seguinte: api_fase01.py, country.json, gpd_data.csv e README.md. Acesse esses arquivos e leia o conteúdo do README.md para obter mais detalhes técnicos de como fazer essa coleta de informações. 
+
+
+O que você deve entregar na fase 1 do projeto? Para essa fase do projeto você deve gerar dois entregáveis: 
+
+ 
+
+Um arquivo CSV que possua uma linha para cada um dos países que constam na API e com as seguintes colunas: “codigo”, “nome”, “populacao”, “capital”, “area”, “continente” e "PIB" (uma coluna para cada um dos anos desde 1960 até 2021).
+Um (ou mais) jupyter notebook que tenha o processo de coleta de dados da API REST, leitura de dados do arquivo CSV e consolidação das informações em um único dataframe pandas. 
+ 
+
+Será rodada verificação de similaridade nos códigos enviados e será aplicada devida penalização em casos de cópia. 
+
+ 
+
+Quais aulas você deve assistir para realizar a Fase 1 do projeto? Aulas 1 a 5. 
