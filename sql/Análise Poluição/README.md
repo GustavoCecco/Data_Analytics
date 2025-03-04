@@ -20,9 +20,9 @@ O objetivo deste trabalho é extrair informações sobre os índices de poluiç�
 
 ### 8- Como a poluição variou ao longo dos meses para o poluente dióxido de nitrogênio (no2)?
 
-### 9- Quais foram as 3 cidades com maior poluição média em 2023 para o poluente material particulado fino (pm10)?
+### 9- Quais foram as 3 cidades com maior poluição média em 2020 para o poluente material particulado fino (pm10)?
 
-### 10- Qual foi a variação da poluição média entre 2022 e 2023 para cada poluente?
+### 10- Qual foi a variação da poluição média entre 2019 e 2020 para cada poluente?
 
 
 ## Etapa 2 - Coleta e Extração de Dados
