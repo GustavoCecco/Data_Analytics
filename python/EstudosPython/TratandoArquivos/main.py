@@ -4,7 +4,7 @@ from watchdog.events import FileSystemEventHandler
 import pandas as pd
 import os
 
-
+# 
 class ManipuladorExcel(FileSystemEventHandler):
     def arquivo_salvo(self, event):
         if event.src_path.endswith('.xlsx'):
@@ -19,7 +19,7 @@ class ManipuladorExcel(FileSystemEventHandler):
                 colunas_excluidas = ['Supervisor', 'Equipe Vendas']
                 df = df.drop(columns=[col for col in colunas_excluidas if col in df.columns])
 
-                # Alterando valores ausentes das colunas abaixo para "Outros"
+                # Tratando valores ausentes das colunas abaixo para "Outros"
                 df[['Grupo Produto', 'Linha Produto']] = df[['Grupo Produto', 'Linha Produto']].fillna('Outros')
 
 
