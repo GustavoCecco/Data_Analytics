@@ -1,9 +1,31 @@
 # Projeto de Engenharia de Dados sobre Terremotos com Microsoft Fabric
 
 ### Visão Geral do Projeto
-Construir um pipeline completo de engenharia e análise de dados utilizando os recursos do Microsoft Fabric: Data Factory, Data Engineering e Power BI.
+Este projeto demonstra a construção de uma solução completa de engenharia de dados, desde a ingestão até a análise, utilizando o ecossistema do Microsoft Fabric. O fluxo de trabalho abrange as seguintes etapas:
 
-Ingestão de dados de eventos sísmicos da USGS.
+- Configuração do Ambiente no Fabric:
+
+- Criação de um Workspace dedicado para centralizar todos os artefatos do projeto.
+
+- Criação de um Lakehouse para servir como a base de armazenamento dos dados, seguindo a arquitetura Medalhão.
+
+Processamento de Dados (ETL):
+
+- Ingestão de dados de eventos sísmicos a partir da API pública do USGS.
+
+- Implementação da arquitetura Bronze, Silver e Gold através de notebooks PySpark para limpar, transformar e enriquecer os dados.
+
+Orquestração do Pipeline:
+
+- Desenvolvimento de um Data Pipeline no Data Factory para automatizar e orquestrar a execução sequencial dos notebooks (Bronze → Silver → Gold), garantindo a atualização contínua dos dados.
+
+- (Observação: A definição do pipeline será adicionada a este repositório em breve.)
+
+Análise e Visualização:
+
+- Utilização da camada Gold, já otimizada, como fonte de dados para um relatório no Power BI.
+
+- O painel do Power BI está em desenvolvimento para permitir a análise interativa e a exploração visual dos padrões de terremotos em todo o mundo.
 
 **Tecnologias Utilizadas:** Python, PySpark, Fabric (Data Engineering, Data Factory, Power BI)
 
